@@ -62,7 +62,7 @@ Access the web interface by launching application.</br>
 
 ## Key Functions
 ### worker.py </br>
-init_llm(): Initializes the WatsonX LLM and embeddings for document processing.</br>
+init_llm(): Initializes the LLM via WatsonX and embeddings for document processing.</br>
 process_document(document_path): Loads and splits a PDF into manageable chunks, then creates a vector store for retrieval.</br>
 process_prompt(prompt): Processes user queries and retrieves relevant answers from the document.</br>
 
