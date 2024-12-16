@@ -48,10 +48,7 @@ Download from FFmpeg official website.</br>
 Add the bin directory to your system's PATH.</br>
 
 ### Set Up Credentials</br>
-Create a .env file in the root directory with WATSONX_API and PROJECT_ID.</br>
-
-### Load Environment Variables </br>
-Ensure the .env file is loaded by your script</br>
+Obtain IBM WatsonX credentials for input in 'worker.py' file </br>
 
 ## Running the Application </br>
 Start the server with:</br>
