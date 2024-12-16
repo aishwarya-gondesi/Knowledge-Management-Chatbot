@@ -37,7 +37,8 @@ pip install -r requirements.txt
 ### Install FFmpeg
 
 Linux: </br>
-sudo apt install ffmpeg
+sudo apt update</br>
+sudo apt install ffmpeg -y
 
 macOS: </br>
 brew install ffmpeg
